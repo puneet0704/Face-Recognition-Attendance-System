@@ -18,4 +18,4 @@ This is the list of Python libraries used in the project:
   12.filedialog - Module from Tkinter for opening file dialogs.
   13.messagebox - Module from Tkinter for displaying message boxes.
 
-## Note- It supports Pillow 9.5.0 version, versions above this will not run. 
+## Note- It supports Pillow 9.5.0 version, versions above this will not run. Also, create a folder named 'data' in this repo to store the photo samples of the person.  
